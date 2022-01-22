@@ -1,0 +1,3 @@
+# Don't check in the Output direcory or any temp folders.
+Output/
+_tempBackup/
