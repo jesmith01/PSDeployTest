@@ -1,3 +1,4 @@
-# Don't check in the Output direcory or any temp folders.
-Output/
+# Don't check in any temp or sample folders.
 _tempBackup/
+samples/
+deployToTest/
